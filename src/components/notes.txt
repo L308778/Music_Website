@@ -1,0 +1,7 @@
+Fotoreihe mit Inspirationsgehalt von Songs 1.
+Font ändern
+Grafik Reihe mit Einheitlichkeit 1.
+Chinesische Zeichen mehr beziehen
+Optional:
+Mischung Fotos / Animation
+Media Queries anpassen

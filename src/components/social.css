@@ -1,0 +1,59 @@
+.cont{
+    min-height: 100vh;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: rgb(33, 39, 44);
+}
+
+.signup{
+    font-size: 40px;
+    padding: 80px;
+
+}
+
+.social-container {
+    background: #eee;
+    padding: 25px 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+a.social:hover {
+    transform: translateY(-2px);
+}
+
+.youtube_social {
+    color: #eb3223;
+    padding:20px;
+  }
+  
+.facebook_social {
+    color: #4968ad;
+    padding:20px;
+  }
+  
+.instagram_social {
+    color: black;
+    padding:20px;
+  }
+  .tiktok_social {
+    color: black;
+    padding:20px;
+  }
+  .spotify_social {
+    color: rgb(94, 165, 47);
+    padding:20px;
+  }
+  .soundcloud_social {
+    color: rgb(202, 118, 49);
+    padding:20px;
+  }
